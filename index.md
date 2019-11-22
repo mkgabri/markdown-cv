@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gabriel Carrasco CV
 ---
-# Isaac Newton
+# Gabriel Carrasco
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
